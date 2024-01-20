@@ -1,5 +1,5 @@
 <h2> Hi, Welcome to my profile! 👋🏻 </h2>
-<img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" width='150' align="right">
+<img src="https://media.giphy.com/media/aCgRZuk6GqOQ4w4BTY/giphy.gif" width='200' align="right">
 <p> <em>Computer Engineer at <a href='http://www.cucei.udg.mx/' rel="noopener" target="_blank" >Universidad de Guadalajara (Cucei)</a>
 <br>Competitor of</em> <a rel="noopener" target="_blank" href='https://icpc.global/'>ICPC</a>
 </p>
