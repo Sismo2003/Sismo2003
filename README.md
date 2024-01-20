@@ -1,4 +1,4 @@
 ### Hi there 👋, I'm Alexis Ortiz
-<h2>HOLAAAA</h2>
+<pComputer Engineer at <a href='http://www.cucei.udg.mx/'>Universidad de Guadalajara (Cucei)</a> </p>
 
 
