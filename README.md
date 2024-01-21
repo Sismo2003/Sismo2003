@@ -27,3 +27,6 @@
 - 🎧 I love listing to Music.
 - 👨🏻‍🔬 I'm a big science reader.
 ---
+## Stats 
+<img alt="sismo's GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=sismo2003&show_icons=true&theme=nord">
+---
