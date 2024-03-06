@@ -23,7 +23,7 @@
 - 💬 I'm Bilingual (english, spanish).
 - 💪🏻 I like work on myself.
 - 👨🏻‍💻 I enjoy doing my own proyects.
-- 👾 I play Smash Bros every weekend with my friends.
+- 👾 I'm a Smash Bros player.
 - 🎧 I love listing to Music.
 - 👨🏻‍🔬 I'm a big science reader.
 ---
