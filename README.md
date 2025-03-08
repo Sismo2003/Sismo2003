@@ -14,8 +14,8 @@
       "Name": "Alexis Ramon Ortiz Ceceña",
       "Age" : "21",
       "Preferred langs ": [
-        "C++/C","Python","HTML/CSS","PHP","JavaScript
-      "],
+        "C++/C","Python","HTML/CSS","PHP","JavaScript"
+      ],
       "libraries/Frameworks" : [
         "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk"
       ],
