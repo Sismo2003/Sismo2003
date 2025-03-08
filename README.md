@@ -17,10 +17,10 @@
         "C++/C","Python","HTML/CSS","PHP","JavaScript"
       ],
       "libraries/Frameworks" : [
-        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk"
+        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk","react", "node", "pip"
       ],
       "Networking protocols" :[
-        "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp"
+        "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp", "http/https"
       ]
       
     }
