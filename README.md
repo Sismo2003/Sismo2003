@@ -13,12 +13,14 @@
   "Sismo": {
       "Name": "Alexis Ramon Ortiz Ceceña",
       "Age" : "21",
-      "Preferred langs ": ["C++/C","Python","HTML/CSS","PHP","JavaScript"],
+      "Preferred langs ": [
+        "C++/C","Python","HTML/CSS","PHP","JavaScript
+      "],
       "libraries/Frameworks" : [
         "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk"
       ]
       "Networking protocols" :[
-          "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp"
+        "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp"
       ]
       
     }
