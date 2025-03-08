@@ -18,7 +18,7 @@
       "],
       "libraries/Frameworks" : [
         "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk"
-      ]
+      ],
       "Networking protocols" :[
         "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp"
       ]
