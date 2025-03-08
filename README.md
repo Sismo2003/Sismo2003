@@ -13,13 +13,18 @@
   "Sismo": {
       "Name": "Alexis Ramon Ortiz Ceceña",
       "Age" : "21",
-      "Preferred_langs ": ["C++/C","Python","HTML/CSS","PHP","JavaScript"],
+      "Preferred langs ": ["C++/C","Python","HTML/CSS","PHP","JavaScript"],
       "libraries/Frameworks" : [
-        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind"
+        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk"
       ]
+      "Networking protocols" :[
+          "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp"
+      ]
+      
     }
 ```
-
+## 🤖 I'm starting a startup!.
+  - i'm currently doing my own startup developing a solutions for small / medium bussiness,
 ## More about me
 - 🇲🇽 I'm Mexican.
 - 💬 I'm Bilingual (english, spanish).
@@ -27,7 +32,7 @@
 - 👨🏻‍💻 I enjoy doing my own proyects.
 - 👾 I'm a Smash Bros player.
 - 🎧 I love listing to Music.
-### - 🤖 I'm starting a startup!.
+
 ---
 ## Stats 
 <img alt="sismo's GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=sismo2003&show_icons=true&theme=nord">
