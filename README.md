@@ -14,10 +14,10 @@
       "Name": "Alexis Ramon Ortiz Ceceña",
       "Age" : "21",
       "Preferred langs ": [
-        "C++/C","Python","HTML/CSS","PHP","JavaScript"
+        "C++/C","Python","HTML/CSS","PHP","JavaScript", "TypeScript"
       ],
       "libraries/Frameworks" : [
-        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk","react", "node", "pip"
+        "Jquery","mPDF","Tkinter","Bootstrap","Tailwind", "Asterisk","react", "node", "pip", "Express"
       ],
       "Networking protocols" :[
         "tcp/udp", "VOIP", "SIP" "dhcp", "ssh" , "ftp/sftp" , "fmtp", "http/https"
