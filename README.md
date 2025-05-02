@@ -34,7 +34,7 @@
 - 👨🏻‍💻 I enjoy doing my own proyects.
 - 👾 I'm a Smash Bros player.
 - 🎧 I love listing to Music.
-- 🇨🇳 Learning Chinese
+- 🇨🇳 I'm currently learning Chinese
 
 ---
 ## Stats 
