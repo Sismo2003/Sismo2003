@@ -12,7 +12,7 @@
 ```json
   "Sismo": {
       "Name": "Alexis Ramon Ortiz Ceceña",
-      "Age" : "21",
+      "Age" : "22",
       "Preferred langs ": [
         "C++/C","Python","HTML/CSS","PHP","JavaScript", "TypeScript"
       ],
